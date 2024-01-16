@@ -1,7 +1,7 @@
 const CONFIG = {
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2014-01-1', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []  { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
   
@@ -14,7 +14,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: '520773.XYZ',
   HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 新博客',
+  HEO_HERO_TITLE_5: 'Hi~ 写博客的劲又回来了！',
   HEO_HERO_TITLE_LINK: 'https://520773.xyz',
 
   // 英雄区显示三个置顶分类
@@ -31,11 +31,11 @@ const CONFIG = {
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
     '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
+    '🤝 星辰大海梦想家',
     '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
+    '🏠 搞机刷机小能手',
     '🤖️ 数码科技爱好者',
-    '🧱 团队小组发动机'
+    '🧱 音乐世界探险家'
   ],
   HEO_INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
 
